@@ -296,7 +296,7 @@ if ( isset($_POST["bayar"])) {
 							<div class="single-menu">
 								<div class="title-div justify-content-between d-flex">
 
-									<img src="img/rizal.jpeg" style="border-radius: 50%; width: 70px; height: 70px;">
+									<img src="img/ramdan.jpeg" style="border-radius: 50%; width: 70px; height: 70px;">
 								</div>
 								<h4>Ramdhan Triyadi Nugraha</h4>
 								<p>
@@ -305,7 +305,7 @@ if ( isset($_POST["bayar"])) {
 									<i class="fa-solid fa-location-dot"></i>
 									Kuningan <br>
 									<i class="fa-solid fa-school"></i>
-									SMA NEGERI 4 TASIKMALAYA<br>
+									SMAN 1 Kuningan<br>
 									<a href="#" style="font-size: 25px;"><i class="fa-brands fa-facebook-f"></i></a>&nbsp;
 									<a href="#" style="font-size: 25px;" ><i class="fa-brands fa-github"></i></a>
 									<a href="#" style="font-size: 25px;" ><i class="fa-brands fa-twitter"></i></a>
